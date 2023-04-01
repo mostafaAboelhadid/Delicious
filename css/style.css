@@ -1,0 +1,17 @@
+body {
+    background-color: #0D0D0D;
+    color: #f9f6f6 !important;
+    overflow: hidden;
+}
+
+.nav-tab {
+    background-color: #0D0D0D;
+}
+
+.logo {
+    width: 50px;
+}
+
+i {
+    cursor: pointer;
+}
